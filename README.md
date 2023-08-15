@@ -2,7 +2,7 @@
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/antonio_target?style=social">
+  <img src="https://img.shields.io/twitter/follow/anton_solianyk?style=social">
   <img src="https://img.shields.io/github/followers/antonio-backnotfront?style=social">
 </div>
 </p>
