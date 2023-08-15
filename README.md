@@ -68,7 +68,7 @@
 </p>
 <br>
 
-<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonio-backnotfront&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
 
 <p align="center">
   <a href="http://torrinleonard.com/">
@@ -76,17 +76,23 @@
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{torrinworx}/count.svg"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{antonio-backnotfront}/count.svg"></p>
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a href="https://github.com/torrinworx/Cozy-Auto-Texture">Cozy Auto Texture</a></i>:<ul><li>A Blender add-on that integrates the Stable Diffusion AI image generation model directly within Blender to make AI generated tiled textures available to everyone. (Under construction)</li></ul></li>
-	<li><i><a href="https://github.com/torrinworx/Blend_My_NFTs">Blend_My_NFTs</a></i>:<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
-	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i>:<ul><li>A website that enables easy cloud rendering and NFT minting and storage from the web or withing Blender using our Cozy API. (Yet to be released)</li></ul></li>
-	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li>
+	<li><i><a href="https://github.com/Igoryakib/ForecastPet">Forecast Fox</a></i>:<ul><li>A pet-project whose main idea is to provide accurate weather forecast from any edge of the world as well convenient User Interface in order to make users feel comfortable during their new experience</li></ul></li>
 </ul>
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-My journey in IT field begun in 2020
+My name is Anton Solianyk. I'm 17-year-old software-developer. Pursuing Bachelor degree in the field of Computer Science in Polish-Japanese Academy in Warsaw, Poland.
 
+The real meeting with computer networks and programming took place in 2017, the year when I was introduced to Python, HTML, and CSS. I got affected by this domain.
+
+Despite an endless interest in IT, my real journey itself begun in 2020, when I was 14-year-old self-motivated and disciplined boy. The first experience was mostly related to digital-marketing, facebook/instagram advertisement, and copywriting. This opportunity to dive into digital world astonished me noticeably; therefore, there was no other option but to keep on working in this realm. The gained experience from years of working with businesses at this young age let me obtain an immense amount of confidence and a great vision of my future prospects.
+
+In 2022, I've made a decision to take up programming as my life sense. The first destination was WEB-development and more specifically: Frontend (javascript, html, css, react), Backend (Node.js).
+
+The current goal is to fully learn Node.js as a Backend technology in order to be able to build Fullstack application. In spite of massive desire to work in a team, I truly appreciate Fullstack skills to understand any process in the development.
+
+I consider a leading position in the team as my favorite role, moreover, I'm ready to carry team to always succesfull projects.
