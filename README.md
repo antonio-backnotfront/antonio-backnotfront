@@ -58,11 +58,12 @@
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
+
 <br/>
 <p align="left">
   <a href="https://www.torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=antonio-backnotfront&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-backnotfront&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
@@ -71,7 +72,7 @@
 
 <p align="center">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrinworx&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-backnotfront&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 
