@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://www.google.com.ua/url?sa=i&url=https%3A%2F%2Fwww.economist.com%2Fthe-economist-explains%2F2015%2F09%2F08%2Fwhat-is-code&psig=AOvVaw1lZgpG4uCWjoG88QTq0bTW&ust=1692205493395000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCkpOyS34ADFQAAAAAdAAAAABAE">
+
 <!--
 **antonio-backnotfront/antonio-backnotfront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
