@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=333333&width=435&lines=I+love+coding++%F0%9F%98%8C;there's+no+other+option+except+for+winning+%F0%9F%92%AA)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=333333&width=435&lines=I+love+coding++%F0%9F%98%8C;there's+no+other+option+except+for+winning+%F0%9F%92%AA" alt="Typing SVG" /></a>
 
 <!--
 **antonio-backnotfront/antonio-backnotfront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
