@@ -2,7 +2,7 @@
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/LeonardTorrin?style=social">
+  <img src="https://img.shields.io/twitter/follow/antonio_target?style=social">
   <img src="https://img.shields.io/github/followers/torrinworx?style=social">
   <a href="https://www.youtube.com/c/ThisCozyStudio" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">	
@@ -99,25 +99,5 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-As a passionate software developer and project manager, I have honed a diverse set of skills through various projects and experiences. My journey as a developer began with a desire to create a universal scientific calculator using Python, with the goal of traversing the formulas of various fields of science, such as Physics, Chemistry, and Mathematics. This led me to learn Python and eventually enroll in a Physics and Astronomy program at the University of Waterloo.
+My journey in IT field begun in 2020
 
-I began my professional career as an Automation, Accessibility, and QA Software Tester at League through my family's company worX4you Inc., where I gained valuable experience in web development, software testing, and accessibility through my WCAG certification. I also learned Node.js and the TestCafe module, which allowed me to run automated software tests in TypeScript for League and President's Choice web and mobile applications.
-
-My passion for 3D graphics and animation led me to learn the Blender Python API and create the industry-standard open-source Blender add-ons "Blend_My_NFTs" and "Cozy Auto Texture". Through my work on these add-ons, I gained experience in creating a UI system for users to interact with, as well as documenting its functionality in an organized readme file. I also created and uploaded several YouTube tutorials on how to use the software, and helped engage with members of our growing Discord and YouTube community. Our YouTube channel has just surpassed 200,000 views and is just under 3,000 subscribers, while our Discord server sits just below 3,000 members.
-
-As CEO, Co-Founder, and lead software engineer of This Cozy Studio Inc, I have played a key role in the company's growth and development. I have developed customized versions of "Blend_My_NFTs" to cater to the s
-
-<!--
-**antonio-backnotfront/antonio-backnotfront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
