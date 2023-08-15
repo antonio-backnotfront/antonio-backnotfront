@@ -2,16 +2,6 @@
 
 
 <p>
-<div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/LeonardTorrin?style=social">
-  <img src="https://img.shields.io/github/followers/torrinworx?style=social">
-  <a href="https://www.youtube.com/c/ThisCozyStudio" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">	
-  </a>
-</div>
-</p>
-
-<p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Go-00AED8.svg?style=for-the-badge&logo=go&logoColor=white">
