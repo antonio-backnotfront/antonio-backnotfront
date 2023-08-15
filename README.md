@@ -48,10 +48,10 @@
 <p>
 <div align="center">
 	<a href="https://twitter.com/anton_solianyk" rel="nofollow">
-  		<img alt="Anton Solianyk's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+  		<img alt="Anton Solianyk's Twitter" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/anton-solianyk-906453221/" rel="nofollow">
-  		<img alt="Anton Solianyk's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="Anton Solianyk's LinkedIn" width="92px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
 	</a>
 </div>
 </p>
