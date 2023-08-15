@@ -34,10 +34,10 @@
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-	<a href="https://twitter.com/LeonardTorrin" rel="nofollow">
+	<a href="https://twitter.com/anton_solianyk" rel="nofollow">
   		<img alt="Anton Solianyk's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 	</a>
-	<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/" rel="nofollow">
+	<a href="https://www.linkedin.com/in/anton-solianyk-906453221/" rel="nofollow">
   		<img alt="Anton Solianyk's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
 </div>
