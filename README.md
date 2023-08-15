@@ -1,5 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=33333300&center=true&width=800&lines=I+love+coding+;keep+grinding)](https://git.io/typing-svg)
 
+<p>
+<div align="center" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/LeonardTorrin?style=social">
+  <img src="https://img.shields.io/github/followers/torrinworx?style=social">
+  <a href="https://www.youtube.com/c/ThisCozyStudio" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">	
+  </a>
+</div>
+</p>
 
 <p>
 <div align="center">
