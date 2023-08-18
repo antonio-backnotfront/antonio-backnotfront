@@ -73,7 +73,7 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a href="https://github.com/Igoryakib/ForecastPet">Forecast Fox</a></i>:<ul><li>A pet-project's main idea is to provide accurate weather forecast from any edge of the world as well convenient User Interface in order to make users feel comfortable during their new experience</li></ul></li>
+	<li><i><a href="https://github.com/Igoryakib/ForecastPet">Forecast Fox</a></i>:<ul><li>A pet-project's main idea is to provide accurate weather forecast from any edge of the world as well as convenient User Interface in order to make users feel comfortable during their new experience with Forecast Fox</li></ul></li>
 </ul>
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
