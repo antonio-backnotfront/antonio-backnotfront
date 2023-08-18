@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=33333300&center=true&width=1000&lines=I+love+coding+;keep+grinding" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&background=33333300&center=true&width=1000&lines=I+love+coding+;keep+grinding" alt="Typing SVG" /></a>
 
 <p>
 <div align="center" target="_blank">
@@ -61,20 +61,17 @@
 
 <br/>
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=antonio-backnotfront&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-backnotfront&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrinworx&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">	  
 </p>
 <br>
 
-<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonio-backnotfront&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+
 
 <p align="center">
-  <a href="http://torrinleonard.com/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-backnotfront&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{antonio-backnotfront}/count.svg"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/antonio-backnotfront/count.svg"></p>
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
