@@ -80,14 +80,4 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-My name is Anton Solianyk. I'm 17-year-old software-developer. Pursuing Bachelor degree in the field of Computer Science in Polish-Japanese Academy in Warsaw, Poland.
 
-The real meeting with computer networks and programming took place in 2017, the year when I was introduced to Python, HTML, and CSS. I got affected by this domain.
-
-Despite an endless interest in IT, my real journey itself begun in 2020, when I was 14-year-old self-motivated and disciplined boy. The first experience was mostly related to digital-marketing, facebook/instagram advertisement, and copywriting. This opportunity to dive into digital world astonished me noticeably; therefore, there was no other option but to keep on working in this realm. The gained experience from years of working with businesses at this young age let me obtain an immense amount of confidence and a great vision of my future prospects.
-
-In 2022, I've made a decision to take up programming as my life sense. The first destination was WEB-development and more specifically: Frontend (javascript, html, css, react), Backend (Node.js).
-
-The current goal is to fully learn Node.js as a Backend technology in order to be able to build Fullstack application. In spite of massive desire to work in a team, I truly appreciate Fullstack skills to understand any process in the development.
-
-I consider a leading position in the team as my favorite role, moreover, I'm ready to carry team to always succesfull projects.
